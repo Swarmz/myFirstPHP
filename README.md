@@ -1,1 +1,1 @@
-# myFirstPHP
+# Learning the language of PHP
